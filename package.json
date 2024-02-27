@@ -1,0 +1,25 @@
+{
+  "name": "book-app",
+  "version": "1.0.0",
+  "description": "Learning advanced js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NostroGuardian/book-app.git"
+  },
+  "keywords": [
+    "learning"
+  ],
+  "author": "Ivan Shmel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NostroGuardian/book-app/issues"
+  },
+  "homepage": "https://github.com/NostroGuardian/book-app#readme",
+  "devDependencies": {
+    "rollup": "^4.12.0"
+  }
+}
