@@ -14,7 +14,7 @@
 .search__wrapper img {
   position: absolute;
   left: 10px;
-  top: 12px;
+  top: 13px;
 }
 
 .search__input {
@@ -22,6 +22,7 @@
   border: none;
   border-radius: 5px;
   color: #252525;
+  font-size: 14px;
   padding: 15px 30px 15px 50px;
   flex: 1;
 }
