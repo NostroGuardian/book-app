@@ -64,6 +64,10 @@
   flex: 1;
 }
 
+.search__input:focus {
+  outline: 2px solid #c8c8c8;
+}
+
 .search__input::placeholder {
   color: #494949;
 }
